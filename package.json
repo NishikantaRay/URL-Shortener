@@ -1,0 +1,28 @@
+{
+  "name": "url-generator-",
+  "version": "1.0.0",
+  "description": "Url shortner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishikantaRay/URL-Generator-.git"
+  },
+  "author": "Nishikanta Ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishikantaRay/URL-Generator-/issues"
+  },
+  "homepage": "https://github.com/NishikantaRay/URL-Generator-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
