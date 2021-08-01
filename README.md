@@ -38,4 +38,3 @@ Then listen on localhost
 ```
 http:localhost:5000
 ```
-![Alt Text](https://raw.githubusercontent.com/NishikantaRay/URL-Shortener/main/url.gif?token=AO5W6YGDFBYVNC4GHU3YW2TBB7WFY)
