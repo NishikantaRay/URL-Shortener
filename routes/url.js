@@ -7,7 +7,7 @@ const shortid = require("shortid");
 const router = express.Router();
 
 const Url = require("../models/url.models");
-const shortid = require("shortid");
+
 
 const baseUrl = "http:localhost:5000";
 
