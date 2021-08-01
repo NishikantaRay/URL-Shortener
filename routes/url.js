@@ -8,7 +8,6 @@ const router = express.Router();
 
 const Url = require("../models/url.models");
 
-
 const baseUrl = "http:localhost:5000";
 
 router.post("/short", async (req, res) => {
